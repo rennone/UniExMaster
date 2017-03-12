@@ -1,0 +1,3 @@
+[submodule "Assets/UniEx"]
+	path = Assets/UniEx
+	url = https://github.com/rennone/UniEx
